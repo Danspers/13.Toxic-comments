@@ -25,16 +25,3 @@
 
 Для ускорения тестирования, было взято 400 случайных элементов из основной выборки `tweets_train.csv`, которые были поделены на обучающую и тестовую выборки в соотношении 50:50.
 Целевой признак находится в столбце `'positive'`.
-
-
-Библиотеки:
-GPU 
-numpy
-pandas
-matplotlib-pyplot
-torch
-tensorflow
-transformers
-sentence_transformers
-catboost
-sklearn
